@@ -1,0 +1,3 @@
+# strip windows line endings on CSV files
+* text=auto
+*.csv text
